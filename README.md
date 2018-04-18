@@ -1,2 +1,1 @@
-branch1 end
 master2localbranch
