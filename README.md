@@ -1,4 +1,6 @@
-branch2 begin
-branch2 end
-branch1 begin
-branch1 end
+1
+2
+3
+4
+5
+6
