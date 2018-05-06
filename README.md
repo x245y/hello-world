@@ -1,3 +1,1 @@
-master
-branch1
-branch2
+20180506
